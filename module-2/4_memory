@@ -1,0 +1,7 @@
+--How memory is managed in Python?
+  
+Python Memory Is Managed By Python Heap Space. 
+All Python Objects And Data Structure Are Located In a Private Heap.
+The Programmer Does Not Have An Access To This Private Heap And Interpreter Takes Care Of This Python Private Heap.
+The Allocation Of Python Heap Space For Python Objects Is Done By Python Memory Manager.
+The core API Gives Access To Some Tools For The Programmer To Code.
